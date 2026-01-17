@@ -23,5 +23,3 @@ Main Python Data Types:
         
 Python is flexible you can assign an integer to a variable, then later assign a string to the same variable without errors. But this flexibility means you have to be more cautious with type-related logic.
 
-
-
